@@ -1,0 +1,12 @@
+Compile errors:
+None
+
+tests.test_v5_sqli_signals (exit 0):
+Traceback (most recent call last):
+Ran 5 tests in 0.011s
+OK
+
+tests.test_v5_expanded_checks (exit 0):
+Traceback (most recent call last):
+Ran 8 tests in 0.001s
+OK
